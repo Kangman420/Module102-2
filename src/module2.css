@@ -1,0 +1,27 @@
+.center
+{
+    margin-top: 0px;
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+
+}
+.iconcenter
+{
+    text-align: center;
+    font-size:medium;
+    font-weight: 600;
+}
+.icon_box
+{
+    width: 1240px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+.Area3 
+{
+    width: 250px;
+    padding: 30px;
+    float: left;
+}   
