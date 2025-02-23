@@ -1,2 +1,2 @@
-import { IconBox, IndexIconBox } from "./module2.js";
-export { IconBox, IndexIconBox };
+import { BoxLeft, TopBox, TopRight } from "./module2.js";
+export { BoxLeft, TopBox, TopRight };
